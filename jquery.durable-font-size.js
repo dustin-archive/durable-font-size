@@ -1,5 +1,5 @@
-// Durable Font Size
-// Febuary 4, 2015
+// Durable Font Size - 1.0.0
+// February 4, 2015
 // The MIT License (MIT)
 // Copyright (c) 2015 Dustin Dowell
 // http://github.com/dustindowell22/durable-font-size
